@@ -1,5 +1,13 @@
+body {
+    background: linear-gradient( to top, rgba(94, 73, 50, 0.395), rgba(88, 59, 21, 0.553));
+}
+
 h1 {
     color: rgb(192, 6, 6);
+}
+
+h2 {
+    color: red;
 }
 
 .experimental_text {
@@ -9,3 +17,19 @@ h1 {
 #quote_MM {
     color: rgb(118, 17, 105)
 }
+
+#inclined {
+    color: blue;
+}
+
+p {
+    color: rgb(4, 99, 0)
+}
+
+aside div b {
+    color: brown;
+}
+
+/* div, .name-class, #id, div p{
+color: red;
+} */
